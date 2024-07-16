@@ -1,0 +1,4 @@
+1) forEach loop
+2) "NAME".startWith("") ==> this is used to find the name is same as other 
+3) filter () ==> filter is like forEach . it take a function and also we required to write return in filter function 
+ 
